@@ -45,7 +45,7 @@ The firmware is absolute dogwater, that´s unfortunately not intentional :D. Yea
 | PCB                            | 1x (JLCPCB 5pcs minimum) | <20USD                              | N/A                                                                           |
 | Orpheus Pico board             | 1x                       | N/A                                 | N/A                                                                           |
 
-Materials cost in total: Around **84USD** (not including the cost of the PCB, so closer to about **90USD**)
+Materials cost in total: Around **100USD** (The materials in the BOM are a total 84USD, but I don't know how much the PCB will cost, or what the shipping costs will be, so I would rather have a little headroom)
 
 I do not need the 3D printed parts, as I have access to a 3D printer and thus I don´t want to waste HackClub resources by requesting the parts when I can print them myself.  
 I also don´t need fasteners, as I intentionally designed the keyboard around fasteners which I have at home.
