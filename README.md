@@ -3,11 +3,11 @@
 
 #### Description:
 
-The **Telemetry One** is a 75%, hot-swappable keyboard with an included accessory port (meant for a display but can be used for any I2C accessory :D ). 
+The **Telemetry One** is a 75%, hot-swappable keyboard with an included accessory port (meant for a display but can be used for any I2C accessory :D ) and a case designed to fit into "sleeves", allowing for different looks while keeping the core the same. 
 
 #### Design goal:
 
-The main goal wasn´t exactly to make something extremely original, just to make something that I think I would like using - a compact, easily modifiable (hot-swappable) keyboard with an accessory port. I think I succeeded in that. While the design could be way better, i´m still quite happy with it, as it is my first time making a larger keyboard.
+The main goal was to design a keyboard that I would actually like using, and that would follow a little bit of my design philosophy. I believe that as people, we grow and change over the years, and so should our equipment to better suit our needs and preferences. This idea, although not perfectly executed, is incorporated into the design of Telemetry One. The hot-swap sockets allow changing the switches at any point, so if I ever decide I no longer like tactile switches, and would rather switch to linear, I can do so! The I2C port, although very simple, allows for many different kinds of accessories to be connected to the keyboard. The ones that come to mind the most are things like displays, rotary encoders, haptic feedback, BLE modules for wireless connectivity or even connecting a macropad as an I2C slave device. The last important part is the case, which allows for mounting into different "sleeves", enabling the user to switch keyboard looks as they choose. Overall, I think I achieved my goal with the Telemetry One pretty well and I'm happy with how the design turned out.
 
 #### Parts description:
 
