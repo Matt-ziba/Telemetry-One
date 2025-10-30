@@ -34,16 +34,18 @@ The firmware is absolute dogwater, that´s unfortunately not intentional :D. Yea
 ![Case Top Part Screenshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/757867e6f043dea7e1247b13883f6d6ffe2ae52c_image.png)
 
 ## BILL OF MATERIALS
-79x [Akko V3 Creamy Blue Pro Switch](https://en.akkogear.com/product/akko-v3-cream-blue-pro-switch-45pcs/) - 90 piece pack for 18USD gives a price per piece of around 0.2USD  
-79x [Kailh Hotswap sockets](https://splitkb.com/products/kailh-hotswap-sockets) - sold by packs of 50, 2 packs would be 16 USD, making it 0.16USD per piece  
-1x [TX AP stabilizers](https://divinikey.com/products/tx-ap-stabilizers-rev-4) - 23USD, the 3USD over budget would be paid by me out of pocket   
-1x [Keycap Set from Aliexpress](https://www.aliexpress.com/item/1005007393936770.html?spm=a2g0o.productlist.main.3.c0586ec93KQ9P0&algo_pvid=e9b220b7-1ab2-4e89-89ca-94ed039f923e&algo_exp_id=e9b220b7-1ab2-4e89-89ca-94ed039f923e-1&pdp_ext_f=%7B%22order%22%3A%22380%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CZK%21558.95%21514.29%21%21%21171.71%21157.99%21%40210390c917427292080115989e49e8%2112000040566263788%21sea%21CZ%212786506469%21X&curPageLogUid=hOIUthwuGmMz&utparam-url=scene%3Asearch%7Cquery_from%3A) - 23USD for the whole set  
-79x [L1N4148 Diodes from LCSC](https://www.lcsc.com/product-detail/Switching-Diodes_LRC-L1N4148FT1G_C132821.html?s_z=n_1N4148) - sold in multiples of 50 -  1.3USD for 100 pieces   
-1x [0.91" Display from LCSC](https://www.lcsc.com/product-detail/OLED-Display_HS-HS91L02W2C01_C5248081.html?s_z=s_Displays%257COLED%2520Display) - 2.3USD   
-1x PCB - Ordered from JLCPCB, delivery would be cheaper if it was a joint order with the LCSC components.  
-1x Orpheus Pico board - main MCU  
+| Item                           | Quantity                 | Price                               | Link                                                                          |
+|--------------------------------|--------------------------|-------------------------------------|-------------------------------------------------------------------------------|
+| Akko V3 Creamy Blue Pro Switch | 1x 90pcs pack            | 18USD (0.2USD per piece)            | https://en.akkogear.com/product/akko-v3-cream-blue-pro-switch-45pcs/          |
+| Kailh Hotswap sockets          | 2x 50pcs pack            | 16USD (0.16USD per piece)           | https://splitkb.com/products/kailh-hotswap-sockets                            |
+| TX AP stabilizers              | 1x pack                  | 23USD (3USD over budget paid by me) | https://divinikey.com/products/tx-ap-stabilizers-rev-4                        |
+| Keycap Set from Aliexpress     | 1x set                   | 22USD                               | https://www.aliexpress.com/item/1005007393936770.html                         |
+| L1N4148 Diodes from LCSC       | 2x 50pcs                 | 1.3USD (0.013USD per piece)         | https://lcsc.com/product-detail/Switching-Diodes_LRC-L1N4148FT1G_C132821.html |
+| 0.91" Display from LCSC        | 1x                       | 2.3USD                              | https://lcsc.com/product-detail/OLED-Display_HS-HS91L02W2C01_C5248081.html    |
+| PCB                            | 1x (JLCPCB 5pcs minimum) | <20USD                              | N/A                                                                           |
+| Orpheus Pico board             | 1x                       | N/A                                 | N/A                                                                           |
 
-Materials cost in total: Around **84USD** (not including the cost of the PCB)
+Materials cost in total: Around **84USD** (not including the cost of the PCB, so closer to about **90USD**)
 
 I do not need the 3D printed parts, as I have access to a 3D printer and thus I don´t want to waste HackClub resources by requesting the parts when I can print them myself.  
 I also don´t need fasteners, as I intentionally designed the keyboard around fasteners which I have at home.
