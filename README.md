@@ -19,19 +19,16 @@ The firmware is absolute dogwater, that´s unfortunately not intentional :D. Yea
 
 
 
-## PCB Screenshots
+## PCB Images
 
-![Schematic Screenshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8606ffc5d3b71add5b74d8276a71e425fcad2469_schematic_telemetry-one_2025-03-23.png)
-![PCB Screenshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/abf148292ebd2d5235615d70e712fcb228d957bf_pcb_pcb_telemetry-one_0.96-2025-03-23.png)
-![PCB-3D Screnshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/96f16a1badb6166a47ab76a20113734bba9d5b03_image.png)
-![PCB-3D Screnshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/baa7fcb84ed8f8d9ff2235192dc0af89dce81ecb_image.png)
+![Schematic Screenshot](https://github.com/Matt-ziba/Telemetry-One/blob/main/img/SCHEMATIC.png)
+![PCB Screenshot](https://github.com/Matt-ziba/Telemetry-One/blob/main/img/PCB.png)
+![PCB-3D Screnshot](https://github.com/Matt-ziba/Telemetry-One/blob/main/img/FRONT_RENDER.png)
+![PCB-3D Screnshot](https://github.com/Matt-ziba/Telemetry-One/blob/main/img/BACK_RENDER.png)
 
-## Case Screenshots
+## Case Image
 
-![Case Screenshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a7934ac4f17744844d096650c5ef1e4783f2b6f5_image.png)
-![Case Layers Screenshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/eaa2e37b30fe8209a7ec79f82412e20b49397071_image.png)
-![Case Bottom Screenshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3da96ce598d08c6fad1beae4e0e0f762dc1531d2_image.png)
-![Case Top Part Screenshot](https://hc-cdn.hel1.your-objectstorage.com/s/v3/757867e6f043dea7e1247b13883f6d6ffe2ae52c_image.png)
+![Case Screenshot](https://github.com/Matt-ziba/Telemetry-One/blob/main/img/3D.png)
 
 ## BILL OF MATERIALS
 | Item                           | Quantity                 | Price                               | Link                                                                          |
